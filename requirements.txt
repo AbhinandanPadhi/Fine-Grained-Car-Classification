@@ -1,0 +1,12 @@
+Project Requirements
+
+To initiate and run the project, you will have to initiate the following steps:
+1. Download the original dataset from Stanford Cars as per this link: https://ai.stanford.edu/~jkrause/cars/car_dataset.html
+
+2. Extract the dataset into a folder and place the 3 notebooks of our project in the same directory level as the cars_train, cars_test, and devkit folder. Same directory level means the notebooks are beside these folders. Otherwise, you have to change the directory names inside the notebooks themselves.
+
+3. Change the importing methods from the google colab functions to the standard Jupyter Notebook importing methods. We wrote the code on Google Colab but if it is to be used on a local machine, changing the importing methods is necessary.
+
+4. Run the notebooks and watch the epochs go. 
+
+Thank you
